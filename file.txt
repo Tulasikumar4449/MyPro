@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello, Git!
 MOdified againn for Case 2
+=======
+Hello, Git! Helloooooooooooooooooo  Case 22222222222222222
+>>>>>>> c4b7c5edbff02c5ed1620dcf728e908c5e3cddba
